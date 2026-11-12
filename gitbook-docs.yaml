@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: Fabric Guide Pakistan
+  structure:
+    - type: space
+      key: space-fabric-guide
+      title: "Fabric Guide: Lawn, Cambric, Khaddar, Chiffon and Velvet Explained"
+      path: fabric-guide
+      default: true
+      content:
+        directory: .
